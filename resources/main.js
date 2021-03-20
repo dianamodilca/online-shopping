@@ -23,6 +23,7 @@ $(function() {
             coatsContentWrapper.append(coatHMTL);
     }
 
+// nu este necesar sa construim overlay-ul de fiecare data cand facem click pe un produs, il putem construi in interfata, element static, la click pe produse doar selectam din el si adaugam informatiile necesare in mod dinamic
 //pentru overlay
     // const overlayWrapper = $('.overlay-wrapper'),
     
